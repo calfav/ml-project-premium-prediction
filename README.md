@@ -44,7 +44,7 @@ It was developed as a proof-of-concept (**Phase 1 MVP**) featuring:
 ```bash
 # Clone the repository
 git github.com/calfav/ml-project-premium-prediction
-cd predictive-health-insurance
+cd ml-project-premium-prediction
 
 # Create virtual environment
 python -m venv venv
