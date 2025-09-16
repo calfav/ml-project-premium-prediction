@@ -43,7 +43,7 @@ It was developed as a proof-of-concept (**Phase 1 MVP**) featuring:
 ### Installation  
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/predictive-health-insurance.git
+git github.com/calfav/ml-project-premium-prediction
 cd predictive-health-insurance
 
 # Create virtual environment
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The app will be available at: [http://localhost:8501](http://localhost:8501)  
+The app will be available at: [https://healthcare-premium-arun-hegde.streamlit.app/)  
 
 ---
 
